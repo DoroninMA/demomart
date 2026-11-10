@@ -33,7 +33,7 @@ Each repo has its own README with build and setup steps.
 
 | Pay over NFC | Pay by QR |
 |---|---|
-| <img src="docs/nfc_payment.gif" width="300"> | <img src="docs/qr_payment.gif" width="220"> |
+| <img src="docs/nfc_payment.webp" width="300"> | <img src="docs/qr_payment.webp" width="220"> |
 
 ## License
 
